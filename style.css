@@ -1,0 +1,214 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.main{
+    width: 100%;
+    height: 75vh;
+     /* background-color: red;   */
+}
+.nav1{
+    width: 100%;
+    height: 7vh;
+    /* background-color: yellow; */
+}
+.nav2{
+    width: 100%;
+    height: 15vh;
+    background-color: black;
+    display: flex;
+}
+.subnav1{
+    width: 50%;
+    height: 15vh;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    color: white;
+    padding-left: 20px;
+    font-size: 16px;
+}
+
+
+
+
+.subnav2{
+    width: 50%;
+    height: 15vh;
+    background-color: ;
+    align-items: center;
+    display: flex;
+    gap: 30px;
+    padding-left: 400px;
+}
+.btn1{
+    width: 150px;
+    height: 40px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+}
+/* .icon1{
+    width: 40px;
+    height: 40px;
+    border-color: white;
+} */
+
+.nav3{
+    width: 100%;
+    height: 15vh;
+    background-color: rgb(166, 160, 167);
+    
+
+}
+.message{
+    padding-left: 550px;
+    padding-top: 30px;
+}
+
+.message1{
+    font-weight: bolder; 
+    font-size: 15px;
+}
+.message2{
+    font-size: 12px;
+    line-height: 30px;
+}
+.nav4{
+    width: 100%;
+    height: 40vh;
+     /* background-color: yellow;  */
+    
+}
+.nav5{
+    /* width: 50%;
+    height: 30vh; */
+   padding-top: 30px;
+   padding-left: 520px;
+
+}
+.message3{
+     font-size: 27px;
+     font-weight: bolder;
+}
+.message4{
+    padding-left: 20px;
+    line-height: 40px;
+    font-size: 17px;
+}
+.section{
+    display: flex;
+    width: 700px;
+    height: 170px;
+    /* background-color: goldenrod; */
+    margin-left:480px ;
+}
+
+
+ .btn3{
+    width: 90px;
+    height: 90px;
+    border-radius: 100px;
+    border: 1px solid orange;
+    margin-left: 20px;
+    /* background-image: url(https://web-image.useinsider.com/pumaindia/defaultImageLibrary/Website%20Banners%2096-1754564049.jpeg);
+    background-size: cover; */
+} 
+
+.btn3 img {
+    width: 80px;
+    height: 80px;
+}
+
+.section{
+    gap: 20px;
+}
+.section img{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    outline: 2px solid orange;
+    outline-offset: 3px;
+    
+}
+
+.main2{
+    width: 100%;
+    height: 70vh;
+    background-color: yellow;
+     background-image: url(https://images.puma.com/image/upload/c_scale,f_auto,q_auto:good,w_1920/cms/images/8bbf14d77ba577371147320dfc1c783866cd6a8d?_a=BAMAK+eA0);
+    background-size: contain;
+    
+}
+/* .main2 img{
+    width: 100%;
+    height: 60vh;
+} */
+
+
+
+
+
+
+
+
+
+.main3{
+    width: 100%;
+    height: 80vh;
+    /* background-color: yellow; */
+   
+}
+.submain3{
+    width: 90%;
+    height: 70vh;
+    /* background-color: red; */
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    gap: 10px;
+    padding-left: 70px;
+    
+    
+}
+.one{
+    padding-top: 20px;
+    
+}
+.one img{
+    width: 320px;
+    height: 420px;
+}
+.two{
+    padding-top: 20px;
+}
+.two img{
+    width: 320px;
+    height: 420px;
+}
+.three{
+    padding-top: 20px;
+}
+.three img{
+    width: 320px;
+    height: 420px;
+}
+.four{
+    padding-top: 20px;
+}
+.four img{
+    width: 320px;
+    height: 420px;
+
+}
+
+
+
+
+.main4{
+    width: 100%;
+    height:50vh ;
+}
+
