@@ -10,8 +10,14 @@
 .nav1{
     width: 100%;
     height: 7vh;
-    /* background-color: yellow; */
+    background-color: yellow; 
 }
+
+
+
+
+
+
 .nav2{
     width: 100%;
     height: 15vh;
@@ -103,7 +109,8 @@
     width: 700px;
     height: 170px;
     /* background-color: goldenrod; */
-    margin-left:480px ;
+    margin-left:550px ;
+    padding-top: 10px;
 }
 
 
@@ -126,10 +133,10 @@
     gap: 20px;
 }
 .section img{
-    width: 100px;
-    height: 100px;
+    width: 80px;
+    height: 80px;
     border-radius: 50%;
-    outline: 2px solid orange;
+    outline: 2px solid rgb(215, 136, 33);
     outline-offset: 3px;
     
 }
@@ -227,6 +234,7 @@
 .one img{
     width: 320px;
     height: 420px;
+   
 }
 .two{
     padding-top: 20px;
@@ -534,7 +542,7 @@
 .footer{
     width: 100%;
     height: 70vh;
-    background-color: rgb(22, 20, 20);
+    background-color:black;
     margin-top: 90px;
 }
 .subfoot{
@@ -597,21 +605,88 @@
     padding-top: 30px;
     
 }
+.logos{
+    padding-top: 20px;
+   
+}
+.logos img{
+    width: 60px;
+    height: 60px;
+    border-radius:10px ;
+    border: 1px solid  rgb(229, 213, 213);
+   
+}
+
+
+
+
+
+.scrolling{
+    width: 100%;
+    height: 90vh;
+     background-color: red; 
+    padding: 20px;
+     box-sizing: border-box;
+}
+
+.scrollingimg{
+    display: flex;
+    overflow-x: auto;       
+    gap: 10px;              
+    scroll-behavior: smooth; 
+}
+.imgg3{
+     padding-top: 12px;
+}
+.imgg3 img{
+    width: 260px;
+    height: 350px;
+   
+   
+    
+    
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .footerlast{
     height: 90px;
     width: 100%;
     display: flex;
-    background-color: brown;
+    /* background-color: brown; */
 }
 
 
-.footerlast p{
-    padding-left: 600px;
+.para p{
+    padding-left: 800px;
     color: rgb(229, 213, 213);
-    font-size: 12;
+    font-size: 12px;
     padding-top: 30px;
-    background-color: blueviolet;
+    /* background-color: blueviolet; */
+}
+
+.para1{
+   
 }
 .foot{
    
